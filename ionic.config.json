@@ -1,0 +1,7 @@
+{
+  "name": "exabimestral",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
